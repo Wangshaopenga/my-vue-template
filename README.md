@@ -36,6 +36,7 @@
 <br>
 
 轻量级完整特性,请查看 [Vitesse Lite](https://github.com/antfu/vitesse-Lite)
+<br>
 完整特性,请查看 [Vitesse](https://github.com/antfu/vitesse)
 
 ## 从 [Vitesse](https://github.com/antfu/vitesse) 中删除了以下特性
