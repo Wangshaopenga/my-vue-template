@@ -29,14 +29,13 @@
 
 - 🔥 使用 [新的 `<script setup>` 语法](https://github.com/vuejs/rfcs/pull/227)
 
-- ✅ 使用 [Vitest](http://vitest.dev/) 进行单元和组件测试
-
 - 🦾 TypeScript, 当然
 
 - ☁️ 零配置部署 Netlify
 
 <br>
 
+轻量级完整特性,请查看 [Vitesse Lite](https://github.com/antfu/vitesse-Lite)
 完整特性,请查看 [Vitesse](https://github.com/antfu/vitesse)
 
 ## 从 [Vitesse](https://github.com/antfu/vitesse) 中删除了以下特性
