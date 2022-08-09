@@ -37,15 +37,9 @@
     "rules": {
       "@typescript-eslint/no-inferrable-types": "off",
       "vue/component-tags-order": [
-        "error",
-        {
-          "order": [
-            "template",
-            "script",
-            "style"
-          ]
-        }
+        "error",{"order": ["template","script","style"]}
       ],
+      "vue/attributes-order":"off",
       "prefer-const": 0,
       "no-console": 0
     }
