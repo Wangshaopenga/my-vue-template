@@ -33,6 +33,7 @@
 
 - ☁️ 零配置部署 Netlify
 
+- 🍍 使用 Pinia 的状态管理
 <br>
 
 轻量级完整特性,请查看 [Vitesse Lite](https://github.com/antfu/vitesse-Lite)
