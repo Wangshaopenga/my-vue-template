@@ -9,16 +9,5 @@
 </template>
 
 <script setup lang="ts">
-import { useStore } from '@/store/user'
-
 const store = useStore()
 </script>
-
-<style>
-  .after {
-    content: "";
-    display: block;
-    width: 120px;
-    height: 20px;
-  }
-</style>
